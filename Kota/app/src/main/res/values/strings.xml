@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kota</string>
+    <string name="nama">Nama Kota</string>
+    <string name="deskripsi">Deskripsi Kota</string>
+    <string name="title_activity_detail_kota">Detail Kota</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
